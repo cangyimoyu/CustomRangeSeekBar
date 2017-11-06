@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RangeSeekBar">
+        <attr name="line_color" format="color"></attr>
+        <attr name="cursor_color" format="color"></attr>
+        <attr name="text_color" format="color"></attr>
+        <attr name="max_progress" format="integer"></attr>
+        <attr name="min_progress" format="integer"></attr>
+        <attr name="oneitem_value" format="integer"></attr>
+        <attr name="one_group_value" format="integer"></attr>
+        <attr name="current_progress" format="float"></attr>
+        <attr name="linewidth" format="float"></attr>
+        <attr name="scrollable" format="boolean"></attr>
+    </declare-styleable>
+
+</resources>
